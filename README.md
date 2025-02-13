@@ -1,6 +1,4 @@
 # Java-Script-leacture-4
-# Lecture 3
-# Table of content ;
 ## 1.Recursive
 ## 2.Closure
 # What is Recursion in Js?
